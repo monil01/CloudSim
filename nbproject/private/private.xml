@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/IqrMc.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/models/PowerModel.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/Helper.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/RandomConstants.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerHpProLiantMl110G5Xeon3075.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/IqrMcRandom.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/RunnerAbstract.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmAllocationPolicyMigrationLocalRegression.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmAllocationPolicyMigrationAbstract.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/RandomRunner.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/MsndFs.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/IqrMc.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/random/IqrMmt.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmSelectionPolicyMaximumCorrelation_sla.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/Cloudlet.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmSelectionPolicyMaximumCorrelation.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/MsndFs.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/models/PowerModelLinear.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmAllocationPolicyMigrationAbstract_n.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerHost.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/models/PowerModelCubic.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/models/PowerModelSpecPower.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmAllocationPolicyMigrationInterQuartileRange.java</file>
+            <file>file:/C:/Users/mmonil/Documents/NetBeansProjects/cloudsim3.0.3/src/org/cloudbus/cloudsim/power/PowerVmSelectionPolicy.java</file>
+        </group>
+    </open-files>
+</project-private>
